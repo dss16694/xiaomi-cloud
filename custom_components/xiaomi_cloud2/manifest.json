@@ -1,8 +1,8 @@
 {
-  "domain": "xiaomi_cloud",
-  "name": "Xiaomi Cloud",
-  "documentation": "https://github.com/fineemb/xiaomi-cloud",
-  "issue_tracker": "https://github.com/fineemb/xiaomi-cloud/issues",
+  "domain": "xiaomi_cloud2",
+  "name": "Xiaomi Cloud2",
+  "documentation": "https://github.com/dss16694/xiaomi-cloud2",
+  "issue_tracker": "https://github.com/dss16694/xiaomi-cloud2/issues",
   "dependencies": [],
   "config_flow": true,
   "codeowners": ["@fineemb"],
